@@ -1,0 +1,8 @@
+{
+    "logging_format": "%(asctime)s - %(name)s [%(levelname)s] %(message)s",
+    "date_format": "%d-%b-%y %H:%M:%S",
+    "serve_port": SERVE_PORT,
+    "allow_public": false,
+    "public_update_delay": "30",
+    "banned_ips": []
+}

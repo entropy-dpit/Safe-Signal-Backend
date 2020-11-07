@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IDEA:
+.idea
+.idea/
+
+# Special files:
+*.entropy
+reg_keys.entropy
+db_auth.entropy
+keys.json
