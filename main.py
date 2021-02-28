@@ -1,7 +1,7 @@
-# Copyright (c) Team Entropy 2020
+# Copyright (c) prisma.ai
 # License: GNU GPL v3
 
-# Public Release - 7 Nov 2020
+# Public Release - 7 Nov 2020 / Updated Feb 2021
 
 __author__ = 'David Pescariu'
 

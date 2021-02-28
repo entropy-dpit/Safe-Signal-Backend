@@ -1,4 +1,4 @@
-# Copyright (c) Team Entropy 2020
+# Copyright (c) prisma.ai 2021
 # All rights reserved
 
 __author__ = 'Ioana Gabor'
